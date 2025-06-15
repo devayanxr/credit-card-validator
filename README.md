@@ -67,7 +67,7 @@ This tool only validates the format of credit card numbers using the Luhn algori
 This project was created as part of the FreeCodeCamp curriculum. Check out their amazing free courses at [freecodecamp.org](https://www.freecodecamp.org/)
 
 ## 🛠️ Technologies Used
-- Python 3.x
+- Python 3.13.1
 - Built-in string methods and mathematical operations
 
 ---
